@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @hunorkov
 - 👀 I’m interested in space exploration, physics and mathematics
 - 🌱 I’m currently learning c++
+- Currently working on solar wind simulation
